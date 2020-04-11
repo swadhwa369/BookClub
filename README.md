@@ -10,8 +10,8 @@ No website/app currently exists that allows for meaningful discussion of books/a
 
 ### The tools
 
-Firebase
-WebRTC
-three.js
-synaptic: https://github.com/cazala/synaptic
++ Firebase
++ WebRTC
++ three.js
++ synaptic: https://github.com/cazala/synaptic
 
